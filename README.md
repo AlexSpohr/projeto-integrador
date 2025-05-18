@@ -4,8 +4,8 @@ Este repositório contém os materiais relacionados ao **Projeto Integrador**.
 
 ## Informações do Aluno
 
-- **Nome:** Alex
-- **Matrícula:** 20230001010
+- **Nome:** Alex Spohr
+- **Matrícula:** 20230002980
 
 ## Estrutura de Pastas
 
