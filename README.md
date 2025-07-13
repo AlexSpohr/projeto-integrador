@@ -14,8 +14,8 @@ Este repositório contém os materiais relacionados ao **Projeto Integrador**.
 └── 📄 requisitos-do-usuario.pdf
 
 📁 Banco-de-Dados-I
-└── 🖼️ Updated_Modelo_Conceitual.png
-└── 🖼️ Modelo_Logico_Relacional.png
+└── 🖼️ Modelo_Conceitual_Final.png
+└── 🖼️ Modelo_Logico_Relacional_Final.png
 ```
 ### Descrição das Pasta
 
