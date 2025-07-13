@@ -15,7 +15,7 @@ Este repositório contém os materiais relacionados ao **Projeto Integrador**.
 
 📁 Banco-de-Dados-I
 └── 🖼️ Modelo_Conceitual_Final.png
-└── 🖼️ Modelo_Logico_Relacional_Final.png
+└── 🖼️ Modelo_Logico_Relacional.png
 ```
 ### Descrição das Pasta
 
